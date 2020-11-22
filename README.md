@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, i’m Pipo! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="goldorak85" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="PipoSurGitHub"/></p>
 
 - 🔭 I’m currently working on <a href="https://cubixmc.eu/" target="blank">CubixMC</a>
 - 🌱 I’m currently learning development
