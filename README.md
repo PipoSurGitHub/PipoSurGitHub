@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, i’m Pipo! 👋</h1>
+<h1 align="center">Hi there, I’m Pipo! 👋</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="PipoSurGitHub"/></p>
 
