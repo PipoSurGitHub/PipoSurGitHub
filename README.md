@@ -2,10 +2,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="PipoSurGitHub"/></p>
 
-- 🔭 I’m currently working on <a href="https://cubixmc.eu/" target="blank">CubixMC</a>
+- 🔭 I’m currently working on <a href="#" target="blank">CubixMC</a>
 - 🌱 I’m currently learning development
 - 👦 In real life, my name is Yoris!
-- 📫 How to reach on Discord: Pipo#0691
+- 📫 How to reach on Discord: Pipo#3276
 
 <h3 align="center">My Programming Languages</h3>
 <p align="center">
