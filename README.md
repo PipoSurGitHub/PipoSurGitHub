@@ -45,4 +45,4 @@
 
 <h3 align="center">More Informations<h3>
 
-![Top Langs](https://github-readme-stats.terrainwax.vercel.app/api/top-langs/?username=piposurgithub&show_icons=true&theme=radical&count_private=true) ![Pipo's github stats](https://github-readme-stats.terrainwax.vercel.app/api?username=piposurgithub&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.terrainwax.vercel.app/api/top-langs/?username=piposurgithub&show_icons=true&theme=radical&count_private=true) ![Pipo's github stats](https://github-readme-stats.terrainwax.vercel.app/api?username=piposurgithub&show_icons=true&theme=radical&count_private=true) ![Trophy](https://github-profile-trophy.vercel.app/?username=PipoSurGitHub&theme=onedark)
