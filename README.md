@@ -1,4 +1,6 @@
-<p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+Pipo!+👋)</p>
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+Pipo!+👋">
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="PipoSurGitHub"/></p>
 
