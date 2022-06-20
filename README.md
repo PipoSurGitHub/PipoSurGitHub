@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I’m Pipo! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+Pipo!+👋)]
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=piposurgithub&color=orange&style=flat-square" alt="PipoSurGitHub"/></p>
 
